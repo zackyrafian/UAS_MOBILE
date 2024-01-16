@@ -9,23 +9,32 @@
 
 ## Hello World 
 
-![Alt text](image.png)
+![Alt text](img/image-7.png)
 
 
 ## Sianida
 
-![Alt text](image-1.png)
+![Alt text](img/image-1.png)
 
 
 ## Count 
-![Alt text](image-2.png)
+![Alt text](img/image-2.png)
 
 ## Two Activity 
 
 First Activity
 
-![Alt text](image-3.png)
+![Alt text](img/image-3.png)
 
 Second Activity
 
-![Alt text](image-4.png)
+![Alt text](img/image-4.png)
+
+
+## Map
+
+![Alt text](img/image-6.png)
+
+## Fragment
+
+![Alt text](img/image-5.png)
